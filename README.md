@@ -1,4 +1,5 @@
 # Neo6502-Projects
+![NEO6502](https://github.com/LuzrBum/Neo6502-Projects/assets/689914/8ca9b191-bf13-4436-a336-c90b44db04ab)
 
 Info around the Neo6502 SBC - see VIDEO https://youtu.be/VpwcKVDqIas !
 
