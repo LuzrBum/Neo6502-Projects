@@ -11,4 +11,4 @@ Info around the Neo6502 SBC - see VIDEO https://youtu.be/VpwcKVDqIas !
 
 TRANSPARENT WHITE VERSION FOR PRINT ON DEMAND
 - The mega cool logo I made https://github.com/LuzrBum/Neo6502-Projects/blob/main/NEO6502Logonly.png
-![NEO6502](https://github.com/LuzrBum/Neo6502-Projects/blob/main/NEO6502LogonlyBlackBG.png) 
+![NEO6502](https://github.com/LuzrBum/Neo6502-Projects/blob/main/NEO6502LogoBlackBG.png) 
